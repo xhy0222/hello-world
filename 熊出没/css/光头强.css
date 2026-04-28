@@ -1,0 +1,14 @@
+#hxy{
+	font-family: 仿宋;
+	font-weight: bold;
+	color: brown;
+}
+#xcs{
+	text-indent: 2em;
+}
+h1::after{
+	content: url(光头强.jpg);
+}
+body{
+	background-color: blanchedalmond;
+}
