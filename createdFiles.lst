@@ -1,0 +1,11 @@
+com\example\servlet\QQLoginServlet.class
+com\example\servlet\ChangeAvatarServlet.class
+com\example\servlet\SendReportServlet$2.class
+com\example\servlet\LoginServlet.class
+com\whjg\servlet\RegisterServlet.class
+com\example\servlet\GetAvatarServlet.class
+com\example\servlet\SendReportServlet$1.class
+com\example\servlet\SocialLoginServlet.class
+com\example\servlet\ChangePasswordServlet.class
+com\example\servlet\SendReportServlet.class
+com\example\servlet\AdminServlet.class
